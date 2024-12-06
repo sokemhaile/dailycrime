@@ -11,32 +11,33 @@
   
 <!-- Badges -->
 <p>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/contributors/rinkitadhana/The-Daily-Crimes" alt="contributors" />
+  <a href="https://github.com/sokemhaile/dailyrime">
+    <img src="https://img.shields.io/github/contributors/sokemhaile/The-Daily-Crimes" alt="contributors" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/last-commit/rinkitadhana/The-Daily-Crimes" alt="last update" />
+  <a href="https://github.com/sokemhaile/dailycrime">
+    <img src="https://img.shields.io/github/last-commit/sokemhaile/The-Daily-Crimes" alt="last update" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/forks/rinkitadhana/The-Daily-Crimes" alt="forks" />
+  <a href="https://github.com/sokemhaile/dailycrime">
+    <img src="https://img.shields.io/github/forks/sokemhaile/dailycrime" alt="forks" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/stars/rinkitadhana/The-Daily-Crimes" alt="stars" />
+  <a href="https://github.com/sokemhaile/dailycrime">
+    <img src="https://img.shields.io/github/stars/sokemhaile/dailycrime" alt="stars" />
   </a>
-  <a href="https://github.com/rinkitadhana/The-Daily-Crimes">
-    <img src="https://img.shields.io/github/issues/rinkitadhana/The-Daily-Crimes" alt="open issues" />
+  <a href="https://github.com/sokemhaile/dailycrime">
+    <img src="https://img.shields.io/github/issues/sokemhaile/dailycrime" alt="open issues" />
   </a>
  
 </p>
    
 <h4>
-    <a href="https://thedailycrimes.vercel.app/">View Demo</a>
+    <a href="https://ethiodailycrime.vercel.app
+/">View Demo</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes">Documentation</a>
+    <a href="https://github.com/sokemhaile/dailycrime">Documentation</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Report Bug</a>
+    <a href="https://github.com/sokemhaile/dailycrimeissues/">Report Bug</a>
   <span> · </span>
-    <a href="https://github.com/rinkitadhana/The-Daily-Crimes/issues/">Request Feature</a>
+    <a href="https://github.com/rinkitadhana/dailycrime/issues/">Request Feature</a>
   </h4>
 </div>
 
@@ -99,7 +100,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/rinkitadhana/The-Daily-Crimes
+  git clone https://github.com/sokemhaile/dailycrime
 ```
 
 Go to the project directory
@@ -125,8 +126,8 @@ Start the server
 <!-- Contributing -->
 ## Contributing
 
-<a href="https://github.com/rinkitadhana/The-Daily-Crimes/contributors">
-  <img src="https://contrib.rocks/image?repo=rinkitadhana/The-Daily-Crimes" />
+<a href="https://github.com/sokemhaile/dailycrime/contributors">
+  <img src="https://contrib.rocks/image?repo=dailycrime/dailycrime" />
 </a>
 
 
