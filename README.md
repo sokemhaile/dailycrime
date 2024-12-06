@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="logo" width="200" height="auto" />
+  <img src="https://github.com/sokemhaile/dailycrime/raw/refs/heads/main/assets/images/sokem" alt="logo" width="200" height="auto" />
   <h1>The Daily Crimes</h1>
   
   <p>
@@ -12,10 +12,10 @@
 <!-- Badges -->
 <p>
   <a href="https://github.com/sokemhaile/dailyrime">
-    <img src="https://img.shields.io/github/contributors/sokemhaile/The-Daily-Crimes" alt="contributors" />
+    
   </a>
   <a href="https://github.com/sokemhaile/dailycrime">
-    <img src="https://img.shields.io/github/last-commit/sokemhaile/The-Daily-Crimes" alt="last update" />
+   
   </a>
   <a href="https://github.com/sokemhaile/dailycrime">
     <img src="https://img.shields.io/github/forks/sokemhaile/dailycrime" alt="forks" />
@@ -65,7 +65,7 @@
 ###  Screenshots
 
 <div align="center"> 
-  <img src="https://github.com/user-attachments/assets/fb1ec5c0-f5ea-44e0-be85-8ea0b3db38bb" alt="screenshot" />
+  <img src="https://github.com/sokemhaile/dailycrime/raw/refs/heads/main/assets/images/sokem" alt="screenshot" />
 </div>
 
 
