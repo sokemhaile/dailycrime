@@ -137,7 +137,7 @@ Contributions are always welcome!
 <!-- Contact -->
 ##  Contact
 
-Rinkit Adhana - [@damnGruz](https://twitter.com/sokem832) - sokemhaile812@gmail.com
+sokem haile- [@sokem](https://twitter.com/sokem832) - sokemhaile812@gmail.com
 
 Portfolio - (https://sokemhailee.vercel.app)
 
